@@ -105,10 +105,10 @@ export default function QRCodeScannerPrivacyPage() {
           <p>
             If you have any questions about this Privacy Policy, please contact{" "}
             <a
-              href="mailto:hello@ianmbae.dev"
+              href="mailto:theretoo2@gmail.com"
               className="text-emerald-400 underline underline-offset-2 hover:text-emerald-300"
             >
-              hello@ianmbae.dev
+              theretoo2@gmail.com
             </a>
             .
           </p>
