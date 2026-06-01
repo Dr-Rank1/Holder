@@ -54,7 +54,7 @@ export default function Home() {
              {[
                { icon: Link2,  href: "https://github.com/stewiriffin", label: "GitHub" },
                { icon: Link2,  href: "https://www.linkedin.com/in/ianmbae/", label: "LinkedIn" },
-               { icon: Mail, href: "mailto:theretoo2@gmail.com", label: "Email" },
+               { icon: Mail, href: "mailto:theretoo2@fmail.com", label: "Email" },
              ].map(({ icon: Icon, href, label }) => (
                <a
                  key={label}
